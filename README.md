@@ -1,1 +1,2 @@
-"# Graffeur" 
+# Graffeur
+Everyone is an artist
